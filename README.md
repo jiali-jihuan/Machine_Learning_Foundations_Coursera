@@ -15,7 +15,7 @@
       - precision = TP/(TP+FP)
       - recall = TP/(TP+FN)
       - ROC curve
-      - F1 score = 2*P*R/P+R , P = precision, R = recall
+      - F1 score = (2 * P * R)/(P+R) , P = precision, R = recall
       - confidence level
   - Similarity
     - BOW (word count)
