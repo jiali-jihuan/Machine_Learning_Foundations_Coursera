@@ -1,7 +1,7 @@
 ## Machine Learning Specialization - Coursera - University of Washington
 <br><b> Specialization Track Notes </b>
 
-- Course 1: Machine Learning Foundations: A Case Study Approach
+### Course 1: Machine Learning Foundations: A Case Study Approach
   - Regression Modeling
     - Evaluation techniques:
       - RSS (residual sum of squares)
