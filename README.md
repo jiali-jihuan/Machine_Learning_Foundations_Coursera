@@ -1,4 +1,4 @@
-## Machine Learning Foundations - Coursera - University of Washington
+## Machine Learning Specialization - Coursera - University of Washington
 <br><b> Specialization Track Notes </b>
 
 - Course 1: Machine Learning Foundations: A Case Study Approach
