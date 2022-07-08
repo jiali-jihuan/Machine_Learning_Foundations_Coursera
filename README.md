@@ -23,7 +23,7 @@
         - log( #docs/(1 + #docs using word) )
       - nearest neighbor (most)
       - k-nearest neighboe - top N (K-means)
-    - Recommender Systems
+  - Recommender Systems
       - precision/recall curves for metric
       - AUC or precision (precision only if limited # recommendations)
       - collaborative filtering
