@@ -27,3 +27,15 @@
       - precision/recall curves for metric
       - AUC or precision (precision only if limited # recommendations)
       - collaborative filtering
+  - Neural Nets
+    - 1 layer = simple linear classifier
+    - non_linear features (layers)
+      - XOR problem (adding layers)
+    - Deep learning w/ computer vision
+      - image features
+        - SIFT [Lowe '99]
+          - gradients
+      - deep learning, implicitely learn features at different levels (layers)
+      - deep features
+        - transfer learning
+        
